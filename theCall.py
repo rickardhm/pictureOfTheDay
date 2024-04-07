@@ -1,6 +1,5 @@
 import datetime
 import json
-import os.path
 import logging
 import theLogger
 logger = logging.getLogger('staging')
